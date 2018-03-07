@@ -1,0 +1,9 @@
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Factory.dll
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Factory.pdb
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Model.dll
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Mono.Security.dll
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Npgsql.dll
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\bin\Debug\Model.pdb
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\obj\Debug\Factory.csprojResolveAssemblyReference.cache
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\obj\Debug\Factory.dll
+C:\Users\liwt4\OneDrive\Ati\MyC#\MyWeb\Factory\obj\Debug\Factory.pdb
